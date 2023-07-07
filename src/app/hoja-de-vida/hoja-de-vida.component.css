@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 .active-link {
   background-color: rgb(28, 148, 233); /* Agregado: Fondo negro */
   color: #03ab03;
+=======
+   */
+   .active-link {
+    background-color: #03ab03;
+>>>>>>> 3a0cf0341306d2e963de8976fba15c429924fb25
 }
 
 /* Estilos para el encabezado h1 */
@@ -17,18 +23,34 @@ h1 {
 }
 
 .navbar {
+<<<<<<< HEAD
   background-color: #03c400;
   padding: 5px;
   border-radius: 5px;
   width: 212px;
+=======
+    background-color: #03c400;
+    padding: 5px;
+    border-radius: 5px;
+    width: 212px;
+>>>>>>> 3a0cf0341306d2e963de8976fba15c429924fb25
 }
 
 /* Estilos para el enlace de navegación */
 .nav-link {
+<<<<<<< HEAD
   color: black;
   text-decoration: none;
 }
 
 .nav-link:hover {
   color: rgb(255, 255, 255);
+=======
+    color: black;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+>>>>>>> 3a0cf0341306d2e963de8976fba15c429924fb25
 }
