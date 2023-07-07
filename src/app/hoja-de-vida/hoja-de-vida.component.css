@@ -1,0 +1,34 @@
+.active-link {
+  background-color: rgb(28, 148, 233); /* Agregado: Fondo negro */
+  color: #03ab03;
+}
+
+/* Estilos para el encabezado h1 */
+h1 {
+  color: rgb(0, 118, 35);
+  font-size: 30px;
+  text-align: center;
+}
+
+/* Estilos para el enlace de navegación */
+.nav-link {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: #03c400;
+  padding: 5px;
+  border-radius: 5px;
+  width: 212px;
+}
+
+/* Estilos para el enlace de navegación */
+.nav-link {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: rgb(255, 255, 255);
+}
